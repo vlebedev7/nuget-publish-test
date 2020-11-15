@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>NugetPublishTest</PackageId>
+    <Version>1.0.2</Version>
+    <Authors>vlebedev7</Authors>
+    <PackageDescription>123</PackageDescription>
+    <RepositoryUrl>https://github.com/vlebedev7/nuget-publish-test</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
